@@ -1,9 +1,8 @@
-# nanjomal
 # Hi 👋, I'm Nanjo Mal
 
-### BS Artificial Intelligence Student | Java, C++ & Data Structures | Database(MySQL)|Software Developer
+### BS AI Student | Java, C++ & Data Structures | Databse(MY SQL) | Software Developer
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Nanjo%20Mal-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Nanjo%20Mal-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nanjo-mal-794a303a8)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-nanjomal11--bsai-181717?style=for-the-badge&logo=github)](https://github.com/nanjomal11-bsai)
 
 ---
@@ -29,6 +28,8 @@
 ### Networking & Simulation
 ![Wireshark](https://img.shields.io/badge/Wireshark-167DAA?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-005681?style=for-the-badge&logo=cisco&logoColor=white)
+![Command Prompt](https://img.shields.io/badge/Command_Prompt-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Multisim](https://img.shields.io/badge/NI_Multisim-003B46?style=for-the-badge&logo=nationalinstruments&logoColor=white)
 
 ### Development Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
