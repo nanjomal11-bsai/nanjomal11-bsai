@@ -1,4 +1,4 @@
-nanjo_mal_github_banner.png
+https://raw.githubusercontent.com/nanjomal11-bsai/nanjomal11-bsai/main/nanjo_mal_github_banner.png
 # Hi 👋, I'm Nanjo Mal
 
 ### BS AI Student | Java, C++ & Data Structures | Databse(MY SQL) | Software Developer
