@@ -1,4 +1,7 @@
-https://raw.githubusercontent.com/nanjomal11-bsai/nanjomal11-bsai/main/nanjo_mal_github_banner.png
+<p align="center">
+  <img src="YOUR_IMAGE_RAW_URL_HERE" alt="Nanjo Mal Banner" width="100%" style="border-radius: 10px;">
+</p>
+![My Banner](https://raw.githubusercontent.com/nanjomal11-bsai/nanjomal11-bsai/main/nanjo_mal_github_banner.png)
 # Hi 👋, I'm Nanjo Mal
 
 ### BS AI Student | Java, C++ & Data Structures | Databse(MY SQL) | Software Developer
