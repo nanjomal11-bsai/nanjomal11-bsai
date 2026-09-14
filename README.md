@@ -1,3 +1,4 @@
+nanjo_mal_github_banner.png
 # Hi 👋, I'm Nanjo Mal
 
 ### BS AI Student | Java, C++ & Data Structures | Databse(MY SQL) | Software Developer
