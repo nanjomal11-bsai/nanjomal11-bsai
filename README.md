@@ -1,7 +1,7 @@
 # nanjomal
 # Hi 👋, I'm Nanjo Mal
 
-### BS AI Student | Java, C++ & Data Structures Enthusiast
+### BS Artificial Intelligence Student | Java, C++ & Data Structures | Database(MySQL)|Software Developer
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Nanjo%20Mal-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-nanjomal11--bsai-181717?style=for-the-badge&logo=github)](https://github.com/nanjomal11-bsai)
