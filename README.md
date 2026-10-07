@@ -1,4 +1,4 @@
-<img width="3200" height="1000" alt="banner2x" src="https://github.com/user-attachments/assets/962fb629-98d9-4fa5-a3f9-1f50a1601ee0" />
+
 <p align="center">
 </p>
 <img width="1600" height="500" alt="nanjo_mal_github_banner" src="https://github.com/user-attachments/assets/2ff2bb11-2dd6-403f-8f66-a9936a263ac5" />
