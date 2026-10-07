@@ -1,7 +1,5 @@
+<img width="3200" height="1000" alt="banner2x" src="https://github.com/user-attachments/assets/78dc984e-bff7-4206-a386-89235130a162" />
 
-<p align="center">
-</p>
-<img width="1600" height="500" alt="nanjo_mal_github_banner" src="https://github.com/user-attachments/assets/2ff2bb11-2dd6-403f-8f66-a9936a263ac5" />
 
 # Hi 👋, I'm Nanjo Mal
 
