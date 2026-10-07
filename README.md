@@ -1,9 +1,10 @@
+# Hi 👋, I'm Nanjo Mal
 <img width="3200" height="1000" alt="banner2x" src="https://github.com/user-attachments/assets/78dc984e-bff7-4206-a386-89235130a162" />
 
 
-# Hi 👋, I'm Nanjo Mal
 
-### BS AI Student | Java, C++ & Data Structures | Databse(MY SQL) | Software Developer
+
+### BS AI Student | Java, C++ & Data Structures | Database(MY SQL) | Software Developer
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Nanjo%20Mal-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nanjo-mal-794a303a8)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-nanjomal11--bsai-181717?style=for-the-badge&logo=github)](https://github.com/nanjomal11-bsai)
