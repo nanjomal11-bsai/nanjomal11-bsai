@@ -1,3 +1,4 @@
+<img width="3200" height="1000" alt="banner2x" src="https://github.com/user-attachments/assets/962fb629-98d9-4fa5-a3f9-1f50a1601ee0" />
 <p align="center">
   <img src="YOUR_IMAGE_RAW_URL_HERE" alt="Nanjo Mal Banner" width="100%" style="border-radius: 10px;">
 </p>
